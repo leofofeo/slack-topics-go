@@ -1,5 +1,5 @@
 package company
 
-func GetLevelTeamsConversations() []string {
+func GetCompanyTeamsConversations() []string {
 	return []string{"general", "random"}
 }
